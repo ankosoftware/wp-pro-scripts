@@ -12,4 +12,4 @@ sudo chmod +x vm-install.sh
 curl -O https://github.com/ankosoftware/wp-pro-scripts/raw/master/wp-install.sh
 sudo chmod +x wp-install.sh
 
-./vm-install.sh 
+./wp-install.sh 
